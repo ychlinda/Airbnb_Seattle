@@ -18,7 +18,7 @@ Use the Airbnb Seattle datasets to discover
 
 #### Files included in this repo:
 
-1) Dataset: (https://www.kaggle.com/airbnb/seattle/data "Dataset")
+1) Dataset: (https://www.kaggle.com/airbnb/seattle/data)
 - listings.csv  
 - calendar.csv
 - reviews.csv
