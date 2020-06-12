@@ -29,3 +29,5 @@ Use the Airbnb Seattle datasets to discover
 
 3)AirBnB Seattle Listings Analysis and Visualization.html
 
+Link to the blog about this dataset. (https://medium.com/@ychlinda/airbnb-homes-in-seattle-how-much-does-it-cost-31a8241a3941)
+
